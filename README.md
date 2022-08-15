@@ -16,9 +16,9 @@ namespace week3
             Subject u1 = new Subject("C#");
             Subject u2 = new Subject("Java");
 
-            Student s1 = new Student("Dick");
+            Student s1 = new Student("Smith");
             Student s2 = new Student("Johnson");
-            Student s3 = new Student("Sarah");
+            Student s3 = new Student("Mickey");
 
             u1.enrol(s1);
             u1.enrol(s2);
